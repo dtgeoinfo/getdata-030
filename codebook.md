@@ -33,9 +33,3 @@ The dataset has 180 observations (30 subjects x 6 activities) of 66 variables (6
 * "activity" - Represent the six activities (WALKING, WALKING UPSTAIRS, WALKING DOWNSTAIRS, SITTING, STANDING, LAYING) that each person performed wearing a smartphone.  
 * "subject" - Represent the ID of each of the subject of a group of 30 volunteers within an age bracket of 19-48 years.  
 * The rest of the variables, represent the average of that variable for each activity and each subject. The [features_info.txt](https://github.com/dtgeoinfo/getdata-030/blob/master/features_info.txt) file explains the means of each of these variables.  
-
-##Sources
-Sources you used if any, otherise leave out.
-
-##Annex
-If you used any code in the codebook that had the echo=FALSE attribute post this here (make sure you set the results parameter to 'hide' as you do not want the results to show again)
