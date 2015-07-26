@@ -5,7 +5,7 @@ This is the readme file of the Getting and Cleaning Data Course Project (getdata
 The following files are available:  
 + **[run_analysis.R](https://github.com/dtgeoinfo/getdata-030/blob/master/run_analysis.R)**. The R code that process the raw data and generate the tidy data file.
 + **[README.md](https://github.com/dtgeoinfo/getdata-030/blob/master/README.md)**. This file, that explains what files are available in the repo and what they do.
-+ **[codebook.md](https://github.com/dtgeoinfo/getdata-030/blob/master/codebook.md)**. A 
++ **[codebook.md](https://github.com/dtgeoinfo/getdata-030/blob/master/codebook.md)**. A file that explain all the variables in the tidy data file.
 + **[Readme_raw.md](https://github.com/dtgeoinfo/getdata-030/blob/master/Readme_raw.md)**. A file that describe the raw data. It's referenced in the codebook.  
 + **[features_info.txt](https://github.com/dtgeoinfo/getdata-030/blob/master/features_info.txt)**. Another file that describe the raw data. It's referenced in the codebook. 
 
